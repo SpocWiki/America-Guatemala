@@ -107,8 +107,8 @@ id: Guatemala
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Guatemala//
-markerFolder: ./Guatemala/
+geojsonFolder: .//
+markerFolder: ./
 ```
 
 [name-en::Guatemala] 
