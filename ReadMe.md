@@ -127,8 +127,10 @@ Capital :: [[Guatemala_City]]
 
 [Alcohol-l::4] 
 [Language-Id::492] 
-[geo-lon::-90.5] 
-[geo-lat::14.6333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-90.5] 
+[has_place_latitude::14.6333] 
 
 
 
