@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~Guatemala\Izabal_Lakes.public.md) 
+### [_Lakes](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal/_Lakes.md) 
 
-### [_Lakes.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~Guatemala\Izabal_Lakes.internal.md) 
+### [_Lakes.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal/_Lakes.public.md) 
 
-### [_Lakes.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~Guatemala\Izabal_Lakes.protect.md) 
+### [_Lakes.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal/_Lakes.internal.md) 
 
-### [_Lakes.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~Guatemala\Izabal_Lakes.private.md) 
+### [_Lakes.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal/_Lakes.protect.md) 
 
-### [_Lakes.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~Guatemala\Izabal_Lakes.personal.md) 
+### [_Lakes.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal/_Lakes.private.md) 
 
-### [_Lakes.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~Guatemala\Izabal_Lakes.secret.md)
+### [_Lakes.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal/_Lakes.personal.md) 
+
+### [_Lakes.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal/_Lakes.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Suchitepéquez/
 
 ## Confidential Links & Embeds: 
 
-### [Suchitepéquez.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSuchitepéquez.public.md) 
+### [Suchitepéquez](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.md) 
 
-### [Suchitepéquez.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSuchitepéquez.internal.md) 
+### [Suchitepéquez.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.public.md) 
 
-### [Suchitepéquez.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSuchitepéquez.protect.md) 
+### [Suchitepéquez.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.internal.md) 
 
-### [Suchitepéquez.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSuchitepéquez.private.md) 
+### [Suchitepéquez.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.protect.md) 
 
-### [Suchitepéquez.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSuchitepéquez.personal.md) 
+### [Suchitepéquez.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.private.md) 
 
-### [Suchitepéquez.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSuchitepéquez.secret.md)
+### [Suchitepéquez.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.personal.md) 
+
+### [Suchitepéquez.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.secret.md)
 

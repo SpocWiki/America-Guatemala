@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~Central\GuatemalaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~Central/Guatemala/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~Central\GuatemalaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~Central/Guatemala/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~Central\GuatemalaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~Central/Guatemala/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~Central\GuatemalaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~Central/Guatemala/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~Central\GuatemalaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~Central/Guatemala/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~Central\GuatemalaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~Central/Guatemala/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~Central/Guatemala/License.secret.md)
 

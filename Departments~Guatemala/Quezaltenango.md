@@ -41,15 +41,17 @@ markerFolder: ./Quezaltenango/
 
 ## Confidential Links & Embeds: 
 
-### [Quezaltenango.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaQuezaltenango.public.md) 
+### [Quezaltenango](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Quezaltenango.md) 
 
-### [Quezaltenango.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaQuezaltenango.internal.md) 
+### [Quezaltenango.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Quezaltenango.public.md) 
 
-### [Quezaltenango.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaQuezaltenango.protect.md) 
+### [Quezaltenango.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Quezaltenango.internal.md) 
 
-### [Quezaltenango.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaQuezaltenango.private.md) 
+### [Quezaltenango.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Quezaltenango.protect.md) 
 
-### [Quezaltenango.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaQuezaltenango.personal.md) 
+### [Quezaltenango.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Quezaltenango.private.md) 
 
-### [Quezaltenango.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaQuezaltenango.secret.md)
+### [Quezaltenango.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Quezaltenango.personal.md) 
+
+### [Quezaltenango.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Quezaltenango.secret.md)
 

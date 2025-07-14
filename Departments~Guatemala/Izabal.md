@@ -41,15 +41,17 @@ markerFolder: ./Izabal/
 
 ## Confidential Links & Embeds: 
 
-### [Izabal.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaIzabal.public.md) 
+### [Izabal](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.md) 
 
-### [Izabal.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaIzabal.internal.md) 
+### [Izabal.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.public.md) 
 
-### [Izabal.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaIzabal.protect.md) 
+### [Izabal.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.internal.md) 
 
-### [Izabal.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaIzabal.private.md) 
+### [Izabal.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.protect.md) 
 
-### [Izabal.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaIzabal.personal.md) 
+### [Izabal.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.private.md) 
 
-### [Izabal.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaIzabal.secret.md)
+### [Izabal.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.personal.md) 
+
+### [Izabal.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.secret.md)
 

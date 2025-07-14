@@ -41,15 +41,17 @@ markerFolder: ./Baja_Verapaz/
 
 ## Confidential Links & Embeds: 
 
-### [Baja_Verapaz.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaBaja_Verapaz.public.md) 
+### [Baja_Verapaz](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Baja_Verapaz.md) 
 
-### [Baja_Verapaz.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaBaja_Verapaz.internal.md) 
+### [Baja_Verapaz.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Baja_Verapaz.public.md) 
 
-### [Baja_Verapaz.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaBaja_Verapaz.protect.md) 
+### [Baja_Verapaz.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Baja_Verapaz.internal.md) 
 
-### [Baja_Verapaz.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaBaja_Verapaz.private.md) 
+### [Baja_Verapaz.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Baja_Verapaz.protect.md) 
 
-### [Baja_Verapaz.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaBaja_Verapaz.personal.md) 
+### [Baja_Verapaz.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Baja_Verapaz.private.md) 
 
-### [Baja_Verapaz.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaBaja_Verapaz.secret.md)
+### [Baja_Verapaz.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Baja_Verapaz.personal.md) 
+
+### [Baja_Verapaz.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Baja_Verapaz.secret.md)
 

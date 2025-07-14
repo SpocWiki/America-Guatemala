@@ -41,15 +41,17 @@ markerFolder: ./Quiché/
 
 ## Confidential Links & Embeds: 
 
-### [Quiché.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaQuiché.public.md) 
+### [Quiché](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Quiché.md) 
 
-### [Quiché.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaQuiché.internal.md) 
+### [Quiché.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Quiché.public.md) 
 
-### [Quiché.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaQuiché.protect.md) 
+### [Quiché.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Quiché.internal.md) 
 
-### [Quiché.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaQuiché.private.md) 
+### [Quiché.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Quiché.protect.md) 
 
-### [Quiché.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaQuiché.personal.md) 
+### [Quiché.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Quiché.private.md) 
 
-### [Quiché.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaQuiché.secret.md)
+### [Quiché.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Quiché.personal.md) 
+
+### [Quiché.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Quiché.secret.md)
 

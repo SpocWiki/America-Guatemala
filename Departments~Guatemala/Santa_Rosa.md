@@ -41,15 +41,17 @@ markerFolder: ./Santa_Rosa/
 
 ## Confidential Links & Embeds: 
 
-### [Santa_Rosa.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSanta_Rosa.public.md) 
+### [Santa_Rosa](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Santa_Rosa.md) 
 
-### [Santa_Rosa.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSanta_Rosa.internal.md) 
+### [Santa_Rosa.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Santa_Rosa.public.md) 
 
-### [Santa_Rosa.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSanta_Rosa.protect.md) 
+### [Santa_Rosa.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Santa_Rosa.internal.md) 
 
-### [Santa_Rosa.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSanta_Rosa.private.md) 
+### [Santa_Rosa.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Santa_Rosa.protect.md) 
 
-### [Santa_Rosa.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSanta_Rosa.personal.md) 
+### [Santa_Rosa.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Santa_Rosa.private.md) 
 
-### [Santa_Rosa.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSanta_Rosa.secret.md)
+### [Santa_Rosa.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Santa_Rosa.personal.md) 
+
+### [Santa_Rosa.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Santa_Rosa.secret.md)
 

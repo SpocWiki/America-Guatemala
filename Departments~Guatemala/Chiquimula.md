@@ -41,15 +41,17 @@ markerFolder: ./Chiquimula/
 
 ## Confidential Links & Embeds: 
 
-### [Chiquimula.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaChiquimula.public.md) 
+### [Chiquimula](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chiquimula.md) 
 
-### [Chiquimula.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaChiquimula.internal.md) 
+### [Chiquimula.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chiquimula.public.md) 
 
-### [Chiquimula.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaChiquimula.protect.md) 
+### [Chiquimula.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chiquimula.internal.md) 
 
-### [Chiquimula.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaChiquimula.private.md) 
+### [Chiquimula.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chiquimula.protect.md) 
 
-### [Chiquimula.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaChiquimula.personal.md) 
+### [Chiquimula.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chiquimula.private.md) 
 
-### [Chiquimula.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaChiquimula.secret.md)
+### [Chiquimula.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chiquimula.personal.md) 
+
+### [Chiquimula.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chiquimula.secret.md)
 

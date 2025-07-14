@@ -41,15 +41,17 @@ markerFolder: ./Sololá/
 
 ## Confidential Links & Embeds: 
 
-### [Sololá.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSololá.public.md) 
+### [Sololá](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Sololá.md) 
 
-### [Sololá.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSololá.internal.md) 
+### [Sololá.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Sololá.public.md) 
 
-### [Sololá.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSololá.protect.md) 
+### [Sololá.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Sololá.internal.md) 
 
-### [Sololá.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSololá.private.md) 
+### [Sololá.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Sololá.protect.md) 
 
-### [Sololá.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSololá.personal.md) 
+### [Sololá.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Sololá.private.md) 
 
-### [Sololá.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSololá.secret.md)
+### [Sololá.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Sololá.personal.md) 
+
+### [Sololá.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Sololá.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Guatemala~City.public](/_public/\Earth\Continent\America~Central\Guatemala\CityGuatemala~City.public.md) 
+### [Guatemala~City](/_Standards/Earth/Continent/America~Central/Guatemala/City/Guatemala~City.md) 
 
-### [Guatemala~City.internal](/_internal/\Earth\Continent\America~Central\Guatemala\CityGuatemala~City.internal.md) 
+### [Guatemala~City.public](/_public/Earth/Continent/America~Central/Guatemala/City/Guatemala~City.public.md) 
 
-### [Guatemala~City.protect](/_protect/\Earth\Continent\America~Central\Guatemala\CityGuatemala~City.protect.md) 
+### [Guatemala~City.internal](/_internal/Earth/Continent/America~Central/Guatemala/City/Guatemala~City.internal.md) 
 
-### [Guatemala~City.private](/_private/\Earth\Continent\America~Central\Guatemala\CityGuatemala~City.private.md) 
+### [Guatemala~City.protect](/_protect/Earth/Continent/America~Central/Guatemala/City/Guatemala~City.protect.md) 
 
-### [Guatemala~City.personal](/_personal/\Earth\Continent\America~Central\Guatemala\CityGuatemala~City.personal.md) 
+### [Guatemala~City.private](/_private/Earth/Continent/America~Central/Guatemala/City/Guatemala~City.private.md) 
 
-### [Guatemala~City.secret](/_secret/\Earth\Continent\America~Central\Guatemala\CityGuatemala~City.secret.md)
+### [Guatemala~City.personal](/_personal/Earth/Continent/America~Central/Guatemala/City/Guatemala~City.personal.md) 
+
+### [Guatemala~City.secret](/_secret/Earth/Continent/America~Central/Guatemala/City/Guatemala~City.secret.md)
 

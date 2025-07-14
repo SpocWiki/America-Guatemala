@@ -133,15 +133,17 @@ Capital :: [[Guatemala_City]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~Central\GuatemalaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~Central/Guatemala/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~Central\GuatemalaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~Central/Guatemala/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~Central\GuatemalaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~Central/Guatemala/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~Central\GuatemalaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~Central/Guatemala/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~Central\GuatemalaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~Central/Guatemala/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~Central\GuatemalaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~Central/Guatemala/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~Central/Guatemala/ReadMe.secret.md)
 

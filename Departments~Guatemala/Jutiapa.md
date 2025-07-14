@@ -41,15 +41,17 @@ markerFolder: ./Jutiapa/
 
 ## Confidential Links & Embeds: 
 
-### [Jutiapa.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaJutiapa.public.md) 
+### [Jutiapa](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jutiapa.md) 
 
-### [Jutiapa.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaJutiapa.internal.md) 
+### [Jutiapa.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jutiapa.public.md) 
 
-### [Jutiapa.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaJutiapa.protect.md) 
+### [Jutiapa.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jutiapa.internal.md) 
 
-### [Jutiapa.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaJutiapa.private.md) 
+### [Jutiapa.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jutiapa.protect.md) 
 
-### [Jutiapa.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaJutiapa.personal.md) 
+### [Jutiapa.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jutiapa.private.md) 
 
-### [Jutiapa.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaJutiapa.secret.md)
+### [Jutiapa.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jutiapa.personal.md) 
+
+### [Jutiapa.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jutiapa.secret.md)
 
