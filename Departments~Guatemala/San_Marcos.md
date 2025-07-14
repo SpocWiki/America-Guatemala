@@ -40,11 +40,16 @@ markerFolder: ./San_Marcos/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Guatemala/Counties/San_Marcos|San_Marcos]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.public|San_Marcos.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.internal|San_Marcos.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.protect|San_Marcos.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.private|San_Marcos.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.personal|San_Marcos.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.secret|San_Marcos.secret]] 
+
+### [San_Marcos.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSan_Marcos.public.md) 
+
+### [San_Marcos.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSan_Marcos.internal.md) 
+
+### [San_Marcos.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSan_Marcos.protect.md) 
+
+### [San_Marcos.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSan_Marcos.private.md) 
+
+### [San_Marcos.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSan_Marcos.personal.md) 
+
+### [San_Marcos.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSan_Marcos.secret.md)
 

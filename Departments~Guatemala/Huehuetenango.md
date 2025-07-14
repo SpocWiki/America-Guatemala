@@ -40,11 +40,16 @@ markerFolder: ./Huehuetenango/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango|Huehuetenango]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.public|Huehuetenango.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.internal|Huehuetenango.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.protect|Huehuetenango.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.private|Huehuetenango.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.personal|Huehuetenango.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.secret|Huehuetenango.secret]] 
+
+### [Huehuetenango.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaHuehuetenango.public.md) 
+
+### [Huehuetenango.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaHuehuetenango.internal.md) 
+
+### [Huehuetenango.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaHuehuetenango.protect.md) 
+
+### [Huehuetenango.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaHuehuetenango.private.md) 
+
+### [Huehuetenango.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaHuehuetenango.personal.md) 
+
+### [Huehuetenango.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaHuehuetenango.secret.md)
 

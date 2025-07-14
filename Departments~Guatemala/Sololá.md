@@ -40,11 +40,16 @@ markerFolder: ./Sololá/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Guatemala/Counties/Sololá|Sololá]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Sololá.public|Sololá.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Sololá.internal|Sololá.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Sololá.protect|Sololá.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Sololá.private|Sololá.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Sololá.personal|Sololá.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Sololá.secret|Sololá.secret]] 
+
+### [Sololá.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSololá.public.md) 
+
+### [Sololá.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSololá.internal.md) 
+
+### [Sololá.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSololá.protect.md) 
+
+### [Sololá.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSololá.private.md) 
+
+### [Sololá.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSololá.personal.md) 
+
+### [Sololá.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSololá.secret.md)
 

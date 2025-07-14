@@ -40,11 +40,16 @@ markerFolder: ./Jalapa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Guatemala/Counties/Jalapa|Jalapa]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Jalapa.public|Jalapa.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Jalapa.internal|Jalapa.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Jalapa.protect|Jalapa.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Jalapa.private|Jalapa.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Jalapa.personal|Jalapa.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Jalapa.secret|Jalapa.secret]] 
+
+### [Jalapa.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaJalapa.public.md) 
+
+### [Jalapa.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaJalapa.internal.md) 
+
+### [Jalapa.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaJalapa.protect.md) 
+
+### [Jalapa.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaJalapa.private.md) 
+
+### [Jalapa.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaJalapa.personal.md) 
+
+### [Jalapa.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaJalapa.secret.md)
 

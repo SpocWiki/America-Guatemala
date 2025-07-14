@@ -40,11 +40,16 @@ markerFolder: ./Sacatepéquez/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez|Sacatepéquez]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.public|Sacatepéquez.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.internal|Sacatepéquez.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.protect|Sacatepéquez.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.private|Sacatepéquez.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.personal|Sacatepéquez.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.secret|Sacatepéquez.secret]] 
+
+### [Sacatepéquez.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSacatepéquez.public.md) 
+
+### [Sacatepéquez.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSacatepéquez.internal.md) 
+
+### [Sacatepéquez.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSacatepéquez.protect.md) 
+
+### [Sacatepéquez.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSacatepéquez.private.md) 
+
+### [Sacatepéquez.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSacatepéquez.personal.md) 
+
+### [Sacatepéquez.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaSacatepéquez.secret.md)
 

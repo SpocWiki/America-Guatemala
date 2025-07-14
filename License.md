@@ -112,11 +112,16 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 
 ## Confidential Links & Embeds: 
-- [[../_Standards/License|License]] 
-- [[../_public/License.public|License.public]] 
-- [[../_internal/License.internal|License.internal]] 
-- [[../_protect/License.protect|License.protect]] 
-- [[../_private/License.private|License.private]] 
-- [[../_personal/License.personal|License.personal]] 
-- [[../_secret/License.secret|License.secret]] 
+
+### [License.public](/_public/\Earth\Continent\America~Central\GuatemalaLicense.public.md) 
+
+### [License.internal](/_internal/\Earth\Continent\America~Central\GuatemalaLicense.internal.md) 
+
+### [License.protect](/_protect/\Earth\Continent\America~Central\GuatemalaLicense.protect.md) 
+
+### [License.private](/_private/\Earth\Continent\America~Central\GuatemalaLicense.private.md) 
+
+### [License.personal](/_personal/\Earth\Continent\America~Central\GuatemalaLicense.personal.md) 
+
+### [License.secret](/_secret/\Earth\Continent\America~Central\GuatemalaLicense.secret.md)
 

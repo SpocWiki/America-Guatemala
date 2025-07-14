@@ -40,11 +40,16 @@ markerFolder: ./Retalhuleu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Guatemala/Counties/Retalhuleu|Retalhuleu]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Retalhuleu.public|Retalhuleu.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Retalhuleu.internal|Retalhuleu.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Retalhuleu.protect|Retalhuleu.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Retalhuleu.private|Retalhuleu.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Retalhuleu.personal|Retalhuleu.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Retalhuleu.secret|Retalhuleu.secret]] 
+
+### [Retalhuleu.public](/_public/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaRetalhuleu.public.md) 
+
+### [Retalhuleu.internal](/_internal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaRetalhuleu.internal.md) 
+
+### [Retalhuleu.protect](/_protect/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaRetalhuleu.protect.md) 
+
+### [Retalhuleu.private](/_private/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaRetalhuleu.private.md) 
+
+### [Retalhuleu.personal](/_personal/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaRetalhuleu.personal.md) 
+
+### [Retalhuleu.secret](/_secret/\Earth\Continent\America~Central\Guatemala\Departments~GuatemalaRetalhuleu.secret.md)
 
