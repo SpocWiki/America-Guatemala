@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Chiquimula
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Chiquimula/
 markerFolder: ./Chiquimula/

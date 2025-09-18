@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Santa_Rosa
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Santa_Rosa/
 markerFolder: ./Santa_Rosa/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Sacatepéquez
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sacatepéquez/
 markerFolder: ./Sacatepéquez/

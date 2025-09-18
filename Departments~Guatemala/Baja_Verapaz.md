@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Baja_Verapaz
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Baja_Verapaz/
 markerFolder: ./Baja_Verapaz/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Alta_Verapaz
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Alta_Verapaz/
 markerFolder: ./Alta_Verapaz/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Retalhuleu
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Retalhuleu/
 markerFolder: ./Retalhuleu/
