@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Guatemala
+  - غواتيمالا
+  - 危地马拉
+  - Гватемала
+  - the Republic of Guatemala
+  - la República de Guatemala
+  - ReadMe
 location:
   - 14.6333
   - -90.5
@@ -15,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Guatemala
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Guatemala
-  - غواتيمالا
-  - 危地马拉
-  - Гватемала
-  - the Republic of Guatemala
-  - la República de Guatemala
+publishDate: ''
+expiryDate: ''
 Languages:
   - es-GT
 ---

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Alta_Verapaz
+  - Alta Verapaz
 location:
   - 15.6
   - -90.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Alta_Verapaz
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Alta_Verapaz
