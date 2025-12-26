@@ -14,6 +14,90 @@ SpocWebEntityId: 35989
 isDeleted: false
 confidential: public
 has_id_wikidata: Q1555
+UN_LOCODE: GTGUA
+Commons_category: Guatemala City
+TikTok_username: muniguate
+Facebook_username: muniguate
+Instagram_username: muniguate
+X_Twitter_username: muniguate
+demonym:
+  - Gvatemalurbano
+  - capitalina
+  - capitalino
+  - guatemalteca
+  - guatemalteco
+native_label: Ciudad de Guatemala
+official_name: Ciudad de Guatemala
+coordinate_location: Point(-90.513333333 14.641666666)
+inception: 1524-08-04T00:00:00Z
+time_of_earliest_written_record: 1524-01-01T00:00:00Z
+twinned_administrative_body:
+  - "[[_Standards/WikiData/WD~Monterrey,81033]]"
+  - "[[_Standards/WikiData/WD~Kfar_Saba,152436]]"
+  - "[[_Standards/WikiData/WD~Juliaca,696074]]"
+  - "[[_Standards/WikiData/WD~Mexico_City,1489]]"
+  - "[[_Standards/WikiData/WD~Taipei,1867]]"
+  - "[[_Standards/WikiData/WD~Madrid,2807]]"
+  - "[[_Standards/WikiData/WD~San_José,3070]]"
+  - "[[_Standards/WikiData/WD~Tegucigalpa,3238]]"
+  - "[[_Standards/WikiData/WD~Santa_Cruz_de_Tenerife,14328]]"
+  - "[[_Standards/WikiData/WD~Santo_Domingo,34820]]"
+  - "[[_Standards/WikiData/WD~Saltillo,53077]]"
+capital_of:
+  - "[[_Standards/WikiData/WD~Federal_Republic_of_Central_America,190025]]"
+  - "[[_Standards/WikiData/WD~Guatemala_Department,695660]]"
+  - "[[_Standards/WikiData/WD~State_of_Guatemala,68257522]]"
+  - "[[_Standards/WikiData/WD~Guatemala,774]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~human_settlement,486972]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~municipality_of_Guatemala,1872284]]"
+  - "[[_Standards/WikiData/WD~largest_city,51929311]]"
+  - "[[_Standards/WikiData/WD~national_capital,108178728]]"
+  - "[[_Standards/WikiData/WD~city,515]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Guatemala_Department,695660]]"
+shares_border_with:
+  - "[[_Standards/WikiData/WD~Mixco,948953]]"
+  - "[[_Standards/WikiData/WD~Villa_Nueva,1018584]]"
+owner_of:
+  - "[[_Standards/WikiData/WD~Torre_del_Reformador,1753887]]"
+  - "[[_Standards/WikiData/WD~Guatemala_City_General_Cemetery,19915001]]"
+part_of: "[[_Standards/WikiData/WD~Central_Highlands_of_Guatemala,14201565]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Guatemala_City,17019757]]"
+head_of_government: "[[_Standards/WikiData/WD~Ricardo_Quiñónez_Lemus,53477917]]"
+country: "[[_Standards/WikiData/WD~Guatemala,774]]"
+official_language: "[[_Standards/WikiData/WD~Spanish,1321]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC_06_00,5385]]"
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
+elevation_above_sea_level: 1500
+social_media_followers: 22800
+local_dialing_code: "2"
+area: 692
+WOEID: "83123"
+population: 994938
+U_S_National_Archives_Identifier: "10044781"
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Guatemala%20City%20%28Colonial%29.svg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20Guatemala%20City%20Skyline-%20Guatemala.jpg
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bandera%20de%20la%20Ciudad%20de%20Guatemala.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Buildings%20in%20Guatemala%20City.jpg
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ciudad%20de%20Guatemala%20-%20Montage.jpg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Guatemala%20-%20Location%20Map%20%282013%29%20-%20GTM%20-%20UNOCHA.svg
+panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/Guatemala%20City%20-%20Cityscape.jpg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Ciudad%20de%20Guatemala.wav
+nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Vista%20nocurna%20de%20la%20ciudad%20de%20Guatemala%2002.jpg
+aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Zona%201%20Centro%20Hist%C3%B3rico%20Ciudad%20de%20Guatemala.jpg
+official_website: http://www.muniguate.com/
+ISNI: "0000000122996433"
+postal_code: 1001–1073
+Provenio_UUID:
+  - 4fce8286-d416-40a6-91d1-6999de32356f
+  - 5efc559b-d148-42e0-80f9-5ca3338f06e7
+Commons_gallery: Ciudad Guatemala
 ---
 
 # [[Guatemala,City]] 
@@ -34,9 +118,13 @@ Country :: [[../../Guatemala]]
 ## #has_/map 
 
 ```leaflet
-id: Guatemala City
-coordinates: [[Guatemala~City]] 
-markerFile: [[Guatemala~City]] 
+id: Guatemala,City
+coordinates: [[Guatemala,City]] 
+markerFile: [[Guatemala,City]] 
+geojsonFolder: ./Guatemala,City/
+markerFolder: ./Guatemala,City/
+zoomFeatures: true
+defaultZoom: 11 
 defaultZoom: 11 
 maxZoom: 18
 ```
