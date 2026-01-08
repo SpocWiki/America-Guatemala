@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -90.5
 dv_has_place_latitude: 14.63333
-dv_name: Guatemala City
+dv_has_name_: Guatemala City
 dv_Unknown: 32
 dv_is_:
   same_as: "[[../../../../../WikiData/WD~Guatemala_City,1555|WD~Guatemala_City,1555]]"
