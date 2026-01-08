@@ -40,17 +40,17 @@ markerFolder: ./Izabal/
 
 ## Confidential Links & Embeds: 
 
-### [Izabal](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal|Izabal]] 
 
-### [Izabal.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.public|Izabal.public]] 
 
-### [Izabal.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.internal|Izabal.internal]] 
 
-### [Izabal.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.protect|Izabal.protect]] 
 
-### [Izabal.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.private|Izabal.private]] 
 
-### [Izabal.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.personal|Izabal.personal]] 
 
-### [Izabal.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Izabal.secret|Izabal.secret]] 
 

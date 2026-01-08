@@ -1,4 +1,13 @@
-﻿---
+---
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -90.5
+dv_has_place_latitude: 14.63333
+dv_name: Guatemala City
+dv_Unknown: 32
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Guatemala_City,1555|WD~Guatemala_City,1555]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Guatemala_City,1555|WD~Guatemala_City,1555]]"
+
 has_time_started: 1524-08-04 
 aliases:
 location:
@@ -104,17 +113,17 @@ Commons_gallery: Ciudad Guatemala
 # [[Guatemala,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-90.5] 
-[has_place_latitude::14.63333] 
-[name::Guatemala City] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../Guatemala]]  
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Guatemala_City,1555|WD~Guatemala_City,1555]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -145,20 +154,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Guatemala%20City) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Guatemala~City](/_Standards/Earth/Continent/America~Central/Guatemala/City/Guatemala~City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Guatemala/City/Guatemala,City|Guatemala,City]] 
 
-### [Guatemala~City.public](/_public/Earth/Continent/America~Central/Guatemala/City/Guatemala~City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Guatemala/City/Guatemala,City.public|Guatemala,City.public]] 
 
-### [Guatemala~City.internal](/_internal/Earth/Continent/America~Central/Guatemala/City/Guatemala~City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Guatemala/City/Guatemala,City.internal|Guatemala,City.internal]] 
 
-### [Guatemala~City.protect](/_protect/Earth/Continent/America~Central/Guatemala/City/Guatemala~City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Guatemala/City/Guatemala,City.protect|Guatemala,City.protect]] 
 
-### [Guatemala~City.private](/_private/Earth/Continent/America~Central/Guatemala/City/Guatemala~City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Guatemala/City/Guatemala,City.private|Guatemala,City.private]] 
 
-### [Guatemala~City.personal](/_personal/Earth/Continent/America~Central/Guatemala/City/Guatemala~City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Guatemala/City/Guatemala,City.personal|Guatemala,City.personal]] 
 
-### [Guatemala~City.secret](/_secret/Earth/Continent/America~Central/Guatemala/City/Guatemala~City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Guatemala/City/Guatemala,City.secret|Guatemala,City.secret]] 
 

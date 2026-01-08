@@ -40,17 +40,17 @@ markerFolder: ./Zacapa/
 
 ## Confidential Links & Embeds: 
 
-### [Zacapa](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Zacapa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Zacapa|Zacapa]] 
 
-### [Zacapa.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Zacapa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Zacapa.public|Zacapa.public]] 
 
-### [Zacapa.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Zacapa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Zacapa.internal|Zacapa.internal]] 
 
-### [Zacapa.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Zacapa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Zacapa.protect|Zacapa.protect]] 
 
-### [Zacapa.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Zacapa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Zacapa.private|Zacapa.private]] 
 
-### [Zacapa.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Zacapa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Zacapa.personal|Zacapa.personal]] 
 
-### [Zacapa.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Zacapa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Zacapa.secret|Zacapa.secret]] 
 

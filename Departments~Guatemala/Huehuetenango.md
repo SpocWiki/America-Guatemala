@@ -40,17 +40,17 @@ markerFolder: ./Huehuetenango/
 
 ## Confidential Links & Embeds: 
 
-### [Huehuetenango](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Huehuetenango.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Huehuetenango|Huehuetenango]] 
 
-### [Huehuetenango.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Huehuetenango.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Huehuetenango.public|Huehuetenango.public]] 
 
-### [Huehuetenango.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Huehuetenango.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Huehuetenango.internal|Huehuetenango.internal]] 
 
-### [Huehuetenango.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Huehuetenango.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Huehuetenango.protect|Huehuetenango.protect]] 
 
-### [Huehuetenango.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Huehuetenango.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Huehuetenango.private|Huehuetenango.private]] 
 
-### [Huehuetenango.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Huehuetenango.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Huehuetenango.personal|Huehuetenango.personal]] 
 
-### [Huehuetenango.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Huehuetenango.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Huehuetenango.secret|Huehuetenango.secret]] 
 

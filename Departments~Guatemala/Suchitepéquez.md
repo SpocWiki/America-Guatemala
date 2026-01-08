@@ -40,17 +40,17 @@ markerFolder: ./Suchitepéquez/
 
 ## Confidential Links & Embeds: 
 
-### [Suchitepéquez](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez|Suchitepéquez]] 
 
-### [Suchitepéquez.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.public|Suchitepéquez.public]] 
 
-### [Suchitepéquez.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.internal|Suchitepéquez.internal]] 
 
-### [Suchitepéquez.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.protect|Suchitepéquez.protect]] 
 
-### [Suchitepéquez.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.private|Suchitepéquez.private]] 
 
-### [Suchitepéquez.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.personal|Suchitepéquez.personal]] 
 
-### [Suchitepéquez.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Suchitepéquez.secret|Suchitepéquez.secret]] 
 

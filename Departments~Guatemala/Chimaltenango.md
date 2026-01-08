@@ -40,17 +40,17 @@ markerFolder: ./Chimaltenango/
 
 ## Confidential Links & Embeds: 
 
-### [Chimaltenango](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chimaltenango.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chimaltenango|Chimaltenango]] 
 
-### [Chimaltenango.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chimaltenango.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chimaltenango.public|Chimaltenango.public]] 
 
-### [Chimaltenango.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chimaltenango.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chimaltenango.internal|Chimaltenango.internal]] 
 
-### [Chimaltenango.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chimaltenango.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chimaltenango.protect|Chimaltenango.protect]] 
 
-### [Chimaltenango.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chimaltenango.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chimaltenango.private|Chimaltenango.private]] 
 
-### [Chimaltenango.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chimaltenango.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chimaltenango.personal|Chimaltenango.personal]] 
 
-### [Chimaltenango.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chimaltenango.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Chimaltenango.secret|Chimaltenango.secret]] 
 

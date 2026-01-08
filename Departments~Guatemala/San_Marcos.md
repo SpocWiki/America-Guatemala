@@ -41,17 +41,17 @@ markerFolder: ./San_Marcos/
 
 ## Confidential Links & Embeds: 
 
-### [San_Marcos](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/San_Marcos.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/San_Marcos|San_Marcos]] 
 
-### [San_Marcos.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/San_Marcos.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/San_Marcos.public|San_Marcos.public]] 
 
-### [San_Marcos.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/San_Marcos.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/San_Marcos.internal|San_Marcos.internal]] 
 
-### [San_Marcos.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/San_Marcos.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/San_Marcos.protect|San_Marcos.protect]] 
 
-### [San_Marcos.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/San_Marcos.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/San_Marcos.private|San_Marcos.private]] 
 
-### [San_Marcos.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/San_Marcos.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/San_Marcos.personal|San_Marcos.personal]] 
 
-### [San_Marcos.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/San_Marcos.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/San_Marcos.secret|San_Marcos.secret]] 
 

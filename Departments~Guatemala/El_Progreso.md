@@ -41,17 +41,17 @@ markerFolder: ./El_Progreso/
 
 ## Confidential Links & Embeds: 
 
-### [El_Progreso](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/El_Progreso.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/El_Progreso|El_Progreso]] 
 
-### [El_Progreso.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/El_Progreso.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/El_Progreso.public|El_Progreso.public]] 
 
-### [El_Progreso.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/El_Progreso.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/El_Progreso.internal|El_Progreso.internal]] 
 
-### [El_Progreso.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/El_Progreso.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/El_Progreso.protect|El_Progreso.protect]] 
 
-### [El_Progreso.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/El_Progreso.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/El_Progreso.private|El_Progreso.private]] 
 
-### [El_Progreso.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/El_Progreso.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/El_Progreso.personal|El_Progreso.personal]] 
 
-### [El_Progreso.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/El_Progreso.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/El_Progreso.secret|El_Progreso.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Jalapa/
 
 ## Confidential Links & Embeds: 
 
-### [Jalapa](/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jalapa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jalapa|Jalapa]] 
 
-### [Jalapa.public](/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jalapa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jalapa.public|Jalapa.public]] 
 
-### [Jalapa.internal](/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jalapa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jalapa.internal|Jalapa.internal]] 
 
-### [Jalapa.protect](/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jalapa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jalapa.protect|Jalapa.protect]] 
 
-### [Jalapa.private](/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jalapa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jalapa.private|Jalapa.private]] 
 
-### [Jalapa.personal](/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jalapa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jalapa.personal|Jalapa.personal]] 
 
-### [Jalapa.secret](/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jalapa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Guatemala/Departments~Guatemala/Jalapa.secret|Jalapa.secret]] 
 
