@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -90.5
 dv_has_place_latitude: 14.63333
-dv_has_name_: Guatemala City
+dv_has_name: Guatemala City
 dv_Unknown: 32
 dv_is_:
   same_as: "[[../../../../../WikiData/WD~Guatemala_City,1555|WD~Guatemala_City,1555]]"
@@ -116,7 +116,7 @@ Commons_gallery: Ciudad Guatemala
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../Guatemala]]  
 [StateId::] 
