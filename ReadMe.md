@@ -147,7 +147,7 @@ flag: '[[/_Standards/WikiData/WD~flag_of_Guatemala,178179|WD~flag_of_Guatemala,1
 coat_of_arms: '[[/_Standards/WikiData/WD~coat_of_arms_of_Guatemala,207526|WD~coat_of_arms_of_Guatemala,207526]]'
 anthem: '[[/_Standards/WikiData/WD~National_Anthem_of_Guatemala,266593|WD~National_Anthem_of_Guatemala,266593]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 - '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
@@ -793,7 +793,7 @@ dv_ISO2: GT
 dv_ISO3: GTM
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Guatemala,774|WD~Guatemala,774]]'
+  - '[[../../../../WikiData/WD~Guatemala,774|WD~Guatemala,774]]'
   - '[[/_Standards/Earth/Continent/America~Central/Guatemala|Guatemala]]'
   - '[[/_public/Earth/Continent/America~Central/Guatemala.public|Guatemala.public]]'
   - '[[/_internal/Earth/Continent/America~Central/Guatemala.internal|Guatemala.internal]]'
@@ -813,7 +813,7 @@ dv_has_place_latitude: 14.6333
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Guatemala
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../WikiData/WD~Guatemala,774|WD~Guatemala,774]]'
+- '[[../../../../WikiData/WD~Guatemala,774|WD~Guatemala,774]]'
 - '[[/_Standards/Earth/Continent/America~Central/Guatemala|Guatemala]]'
 - '[[/_public/Earth/Continent/America~Central/Guatemala.public|Guatemala.public]]'
 - '[[/_internal/Earth/Continent/America~Central/Guatemala.internal|Guatemala.internal]]'
@@ -831,7 +831,7 @@ Unicode_character: 🇬🇹
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Guatemala/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -899,7 +899,7 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../WikiData/WD~Guatemala,774|WD~Guatemala,774]] 
+#is_/same_as :: [[../../../../WikiData/WD~Guatemala,774|WD~Guatemala,774]] 
 
 ## #has_/map  
 
@@ -918,7 +918,7 @@ markerFile: [[Guatemala]]
 
 ```leaflet
 id: Guatemala_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -944,11 +944,11 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Guatemala_City]]  
 
-![[Guatemala/Coat_of_arms_of_Guatemala.svg|350]]
+![[Coat_of_arms_of_Guatemala.svg|350]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Guatemala.mp3|Anthem-Guatemala.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Guatemala.mp3|Anthem-Guatemala.mp3]]
 
-![[Guatemala/Flag_of_Guatemala.svg|350]]
+![[Flag_of_Guatemala.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
